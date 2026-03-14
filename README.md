@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Aswin Prakash — Data Scientist & ML Engineer
+#  Hi, I’m Aswin Prakash — Data Scientist & ML Engineer
 
 <div align="center">
 
@@ -9,13 +9,13 @@
 
 **MSc Data Science (Merit) · University of Roehampton, London · 2025**  
 **BCA First Class · 8.2 GPA · Bangalore University · 2023**  
-📍 Stoke-on-Trent, UK · Open to relocation · Skilled Worker Visa Sponsorship Welcome
+ Stoke-on-Trent, UK · Open to relocation · Skilled Worker Visa Sponsorship Welcome
 
 </div>
 
 -----
 
-## 🧠 What I Do
+##  What I Do
 
 > *“I don’t just build models. I ask whether we’re solving the right problem — then I build the model that proves it.”*
 
@@ -25,7 +25,7 @@ What sets me apart: beyond my technical background, I have **ground-level operat
 
 -----
 
-## 🚀 Technical Skills
+##  Technical Skills
 
 ### Languages & Frameworks
 
@@ -60,9 +60,9 @@ What sets me apart: beyond my technical background, I have **ground-level operat
 
 -----
 
-## 📂 Featured Projects
+##  Featured Projects
 
-### 🤟 Real-Time Sign Language Recognition
+###  Real-Time Sign Language Recognition
 
 **Tech:** TensorFlow · OpenCV · CNN · Python · TTS  
 Achieved **89% classification accuracy** on real-time hand gesture recognition. Built a live video processing pipeline with OpenCV and deployed a text-to-speech output for accessibility.  
@@ -70,7 +70,7 @@ Achieved **89% classification accuracy** on real-time hand gesture recognition. 
 
 -----
 
-### ✈️ Airline Twitter Sentiment Classification
+### Airline Twitter Sentiment Classification
 
 **Tech:** Python · NLTK · Scikit-Learn · TF-IDF · Pandas  
 Multi-class NLP sentiment classifier on **14,000 tweets** achieving **82% accuracy**. Full pipeline including tokenisation, stopword removal, TF-IDF feature extraction and complaint driver extraction via EDA.  
@@ -78,14 +78,14 @@ Multi-class NLP sentiment classifier on **14,000 tweets** achieving **82% accura
 
 -----
 
-### 🏦 Home Loan Management System
+### Home Loan Management System
 
 **Tech:** Java · MySQL · CRUD · Schema Normalisation  
 Full-stack loan management application with secure authentication, normalised database schema and indexing. Directly applicable to **credit risk and financial analytics** pipelines.
 
 -----
 
-## 💼 Work Experience
+## Work Experience
 
 ### TJX Associate (Permanent) — TJX Europe, Stoke Processing Centre
 
@@ -104,7 +104,7 @@ Full website redesign and technical SEO overhaul for [rbmgritting.co.uk](https:/
 
 -----
 
-## 🎓 Education
+## Education
 
 |Degree                     |Institution                       |Grade                    |Year     |
 |---------------------------|----------------------------------|-------------------------|---------|
@@ -113,25 +113,25 @@ Full website redesign and technical SEO overhaul for [rbmgritting.co.uk](https:/
 
 -----
 
-## 📜 Certifications
+## Certifications
 
 - **Quantium Data Analytics Virtual Experience** — Forage, 2025  
   Large-scale transaction analysis · Uplift testing · Anomaly detection · Python (Pandas, NumPy, Matplotlib)
 
 -----
 
-## 🌍 Availability & Visa
+## Availability & Visa
 
-- 📍 Based in **Stoke-on-Trent, UK** — open to relocation anywhere in the UK
-- 🛂 **UK Graduate Route Visa** — valid to **May 2027**
-- ✅ Open to **Skilled Worker Visa sponsorship** · also eligible for **Global Talent Visa** consideration
-- 📞 UK: **+44 7554 954338** (WhatsApp Business) · India: **+91 93882 51024** (WhatsApp)
-- 📧 **aswinprakashak47@gmail.com**
-- 🌐 **Portfolio:** [ash132639.github.io](https://ash132639.github.io/aswinprakash/)
+- Based in **Stoke-on-Trent, UK** — open to relocation anywhere in the UK
+-  **UK Graduate Route Visa** — valid to **May 2027**
+-  Open to **Skilled Worker Visa sponsorship** · also eligible for **Global Talent Visa** consideration
+-  UK: **+44 7554 954338** (WhatsApp Business) · India: **+91 93882 51024** (WhatsApp)
+-  **aswinprakashak47@gmail.com**
+-  **Portfolio:** [ash132639.github.io](https://ash132639.github.io/aswinprakash/)
 
 -----
 
-## 💡 Areas of Interest
+## Areas of Interest
 
 ```
 Fraud Detection & Prevention    │  Credit Risk Modelling
